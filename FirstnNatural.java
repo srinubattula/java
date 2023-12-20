@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
 public class FirstnNatural
 	{
@@ -15,4 +15,3 @@ public class FirstnNatural
 		}
 
 	}
- 
