@@ -4,8 +4,8 @@ public class Add2Num
 {
   public static void main(String args[])
    {
-    System.out.print("\n Program to add two numbers using class -----");
-    Num2 n1 = new Num2();   // Default construct and n1 is an object
+    System.out.print("\n Program to add two numbers using class ");
+    Num2 n1 = new Num2(); 
     n1.get_numbers();
     n1.add_print();
    }
